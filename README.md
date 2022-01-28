@@ -19,7 +19,7 @@
 
 
 # Welcome :)
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> allow you to improve your skills!
+These are the resolutions of the challenge from <a href="https://devchallenge.now.sh/"> DevChallenge</a>, you can find two versions in this repository, one made in Flexbox and the other in grid. Each repository has a tutorial on how I did it, the description of the challenge is right below, good studies!
 
 # Challenge
 Your challenge is to build a landing page about a website that create graphics.<br><br>
