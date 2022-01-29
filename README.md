@@ -21,3 +21,6 @@
 # Welcome :)
 These are the resolutions of the challenge from <a href="https://devchallenge.now.sh/"> DevChallenge</a>, you can find two versions in this repository, one made in Flexbox and the other in grid. Each repository has a tutorial on how I did it so that you can see my process of thought, use that to get better at CSS and good studies!
 
+
+## Final result
+![Result](https://user-images.githubusercontent.com/79945109/151641814-9d889b09-8f77-4d5b-a012-de95d6227999.png)
