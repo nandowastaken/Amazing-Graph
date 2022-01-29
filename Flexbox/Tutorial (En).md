@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The following tutorial teaches you how to create this landing page.
+The following tutorial teaches you how to create this landing page. Oh, you don't know what a landing page is? Basically, it is the first page that shows up when you enter in a site, it tells you exactly what the site is. 
 
 What do you need to know before:
 
@@ -10,7 +10,7 @@ What do you need to know before:
 
 ## Html 
 
-Look at the layout above, what do you see? There is a text and a menu in the top, then there is more text, a button, and a image being overlapped by the text, how can you recreate this using flexbox? The first thing you must do is separate the containers in your head, you must have an idea where everything goes before starting coding, trust me, this will make your life way easier. 
+Look at the lading page above, what do you see? There is a text and a menu in the top, then there is more text, a button, and a image being overlapped by the text, how can you recreate this using flexbox? The first thing you must do is separate the containers in your head, you must have an idea where everything goes before starting coding, trust me, this will make your life way easier. 
 
 At first, we have a header, which consists of the logo (DevChallenge) and the menu, then we have the main content, let's separate these things. We could use divs, like this:
 
