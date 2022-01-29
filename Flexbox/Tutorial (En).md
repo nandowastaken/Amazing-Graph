@@ -24,7 +24,7 @@ At first, we have a header, which consists of the logo (DevChallenge) and the me
 </div>
 ```
 
-And that would work fine, however, html already gives us two tags specific to these things, which is <header> and <main>, this not only looks more organized, as it tells to the browser what that actually is, so it is way better than using divs, even though they would work. Let's use them:
+And that would work fine, however, html already gives us two tags specific to these things, which is header and main, this not only looks more organized, as it tells to the browser what that actually is, so it is way better than using divs, even though they would work. Let's use them:
   
 ```html
   <header> 
