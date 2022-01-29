@@ -68,6 +68,43 @@ There you go, you just finished the skeleton of your website, now it comes the f
   
 ## CSS
   
+Before even touching in the CSS, we must create our classes, every element that we created must have one, so that we can style them. Like this.
 
+```html
+<header class="header">
+        <h2 class="logo">DevChallenge</h2>
+        <nav class="menu">
+            <a class="menu-item" href="#">Home</a>
+            <a class="menu-item" href="#">Features</a>
+            <a class="menu-item" href="#">Contact</a>
+        </nav>
 
-  
+    </header>
+
+    <main class="main-content">
+        <div class="main-text">
+            <h1 class="main-text-title">Create amazing<br>graphics</h1>
+            <p class="main-text-paragraph">Colaborate and create beautiful<br>graphics with your team</p>
+            <button class="main-text-button">Start now</button>
+        </div>
+
+        <img class="background-image" src="assets/team.jpg" width="50%">
+    </main>
+```
+
+I'd recommend that you created your own classes, so that you can practice the CSS. 
+
+Now let's start styling our page, when we create a webpage, there is already some default styling, like margin the margin or the padding. Let's remove this:
+
+```css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+```
+
+The tag * specifies all the elements in the CSS, so, for example, by putting text-decoration none, not a single link will have that underline, which is something that we want.
+
