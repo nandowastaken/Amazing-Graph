@@ -12,7 +12,7 @@ What do you need to know before:
 
 Look at the lading page above, what do you see? There is a text and a menu in the top, then there is more text, a button, and a image being overlapped by the text, how can you recreate this using flexbox? The first thing you must do is separate the containers in your head, you must have an idea where everything goes before starting coding, trust me, this will make your life way easier. 
 
-At first, we have a header, which consists of the logo (DevChallenge) and the menu, then we have the main content, let's separate these things. We could use divs, like this:
+At first, we have a header, which consists of the logo (DevChallenge) and the menu, then we have the main content, let's separate these things. We could use divs with classes to indicate what each one does, like this:
 
 ```html
 <div class="header> 
@@ -108,4 +108,3 @@ Now let's start styling our page, when we create a webpage, there is already som
 ```
 
 The tag * specifies all the elements in the CSS, so, for example, by putting text-decoration none, not a single link will have that underline, which is something that we want. I also put the font-family as Roboto, because it is the only font that we use in the whole layout. 
-
