@@ -19,7 +19,7 @@
 
 
 # Bem-vindo (a) :)
-Essas são as minhas resoluções do desafio Amazing Graph, vindo do site <a href="https://www.devchallenge.com.br/">DevChallenge</a>. São duas resoluções, uma feita com Flexbox e a outra com Grid, há um tutorial em cada uma dessas versões para que você possa entender o processo de criação de cada página, use isso para melhorar em CSS e bons estudos!
+Essa é a minha resolução do desafio Amazing Graph do site DevChallenge.
 
 ## Resultado final
 ![Result](https://user-images.githubusercontent.com/79945109/151641840-8d299307-af2f-4859-b6f0-cf6e5cf244c0.png)
