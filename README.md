@@ -19,7 +19,7 @@
 
 
 # Welcome :)
-These are the resolutions of the challenge from <a href="https://devchallenge.now.sh/"> DevChallenge</a>, you can find two versions in this repository, one made in Flexbox and the other in grid. Each repository has a tutorial on how I did it so that you can see my process of thought, use that to get better at CSS and good studies!
+This is my resolution of the challenge Amazing Graph, which is a challenge from DevChallenge. 
 
 
 ## Final result
